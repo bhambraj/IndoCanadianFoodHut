@@ -1,0 +1,68 @@
+{
+  "menu": [
+    {
+      "label": "Snacks",
+      "icon": "whatshot",
+      "contains": [
+        {
+          "label": "Samosa",
+          "avatar": "/static/assets/menu/samosas.jpg",
+          "price": "1.00 / 2 pieces"
+        },
+        {
+          "label": "Channa Samosa/Tikki",
+          "avatar": "/static/assets/menu/chana_samosa.jpg",
+          "price": "3.99 / plate"
+        }
+      ]
+    },
+    {
+      "label": "Desi Wraps",
+      "icon": "local_dining",
+      "contains": [
+        {
+          "label": "Veggie Delight",
+          "avatar": "http://www.classichalal.com/image/data/product_images/chicken_samosa.jpg",
+          "price": "4.99"
+        },
+        {
+          "label": "Paneer Wrap",
+          "avatar": "https://s-media-cache-ak0.pinimg.com/564x/e8/45/b6/e845b6dc150317ceb70a7af51d1813f8.jpg",
+          "price": "6.99"
+        }
+      ]
+    },
+    {
+      "label": "Drinks",
+      "icon": "local_cafe",
+      "contains": [
+        {
+          "label": "Masala Tea",
+          "avatar": "http://www.indiateaportal.com/wp-content/uploads/2014/10/indiantea-300x208.jpg",
+          "price": "1.25"
+        },
+        {
+          "label": "Indian Coffee",
+          "avatar": "http://www.ecurry.com/blog/wp-content/uploads/2009/07/indian-coffee-10-375x500.jpg",
+          "price": "2.50"
+        }
+      ]
+    },
+    {
+      "label": "All time Favorites",
+      "icon": "local_pizza",
+      "contains": [
+        {
+          "label": "Channa Bhature",
+          "avatar": "http://www.lovelysweets.in/images/chana-bhutra-big.jpg",
+          "price": "3.99"
+        },
+        {
+          "label": "Special Veg Thali",
+          "avatar": "http://www.lytebite.com/wp-content/uploads/2016/01/Dinner_Veg.jpg",
+          "price": "6.49"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "deals": [
+    {
+      "dayNumber": 1,
+      "day": "Monday",
+      "dailyDeal": [
+        {
+          "title": "Samosas",
+          "subHeading": "Served Hot with Authentic Spices",
+          "image": "/static/assets/menu/samosas.jpg",
+          "price": "$ 3.99"
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "day": "Tuesday",
+      "dailyDeal": [
+        {
+          "title": "Amritsari Kulcha",
+          "subHeading": "Taste like nowhere",
+          "image": "/static/assets/menu/kulcha.jpg",
+          "price": "$ 6.99"
+        }
+      ]
+    },
+    {
+      "dayNumber": 3,
+      "day": "Wednesday",
+      "dailyDeal": [
+        {
+          "title": "Bread Pakora",
+          "subHeading": "Tasty",
+          "image": "/static/assets/menu/samosas.jpg",
+          "price": "$ 1.00"
+        }
+      ]
+    },
+    {
+      "dayNumber": 4,
+      "day": "Thursday",
+      "dailyDeal": [
+        {
+          "title": "Paneer Parantha",
+          "subHeading": "Delicious",
+          "image": "/static/assets/menu/paneer_parantha.jpg",
+          "price": "$5.99"
+        }
+      ]
+    },
+    {
+      "dayNumber": 5,
+      "day": "Friday",
+      "dailyDeal": [
+        {
+          "title": "Amritsari Kulcha",
+          "subHeading": "Taste like nowhere",
+          "image": "/static/assets/menu/kulcha.jpg",
+          "price": "$ 6.99"
+        }
+      ]
+    },
+    {
+      "dayNumber": 6,
+      "day": "Saturday",
+      "dailyDeal": [
+        {
+          "title": "Samosas",
+          "subHeading": "Served Hot with Authentic Spices",
+          "image": "/static/assets/menu/samosas.jpg",
+          "price": "$ 3.99"
+        }
+      ]
+    },
+    {
+      "dayNumber": 7,
+      "day": "Sunday",
+      "dailyDeal": [
+        {
+          "title": "Bread Pakora",
+          "subHeading": "Tasty",
+          "image": "/static/assets/menu/bread_pakora.jpg",
+          "price": "$ 1.00"
+        }
+      ]
+    }
+  ]
+}

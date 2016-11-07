@@ -1,0 +1,22 @@
+{
+  "services": [
+    {
+      "title": "Catering",
+      "image": "/static/assets/services/catering.jpg",
+      "description": "$500 for 25 people",
+      "icon": "room_service"
+    },
+    {
+      "title": "Tiffin",
+      "image": "static/assets/services/tiffin.jpg",
+      "description": "$200 per month",
+      "icon": "local_dining"
+    },
+    {
+      "title": "Uber Eats",
+      "image": "static/assets/services/uber_eats.jpg",
+      "description": "Order food through Uber eats",
+      "icon": "directions_car"
+    }
+  ]
+}
